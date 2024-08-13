@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ResourceManager>
+  <SupportedLanguageList>
+    <Language>en</Language>
+    <Language>de</Language>
+    <Language>es</Language>
+    <Language>fr</Language>
+    <Language>ja</Language>
+    <Language>zh-CN</Language>
+    <Language>nl</Language>
+    <Language>it</Language>
+    <Language>pt</Language>
+    <Language>ru</Language>
+    <Language>ko</Language>
+    <Language>zh-TW</Language>
+	  <Language>ca</Language>
+  </SupportedLanguageList>
+</ResourceManager>
